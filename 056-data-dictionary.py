@@ -1,8 +1,5 @@
 #!/usr/bin/env python
 # coding: utf-8
-
-# <font size="+3"><strong>5.6. Data Dictionary</strong></font>
-
 # # Poland Bankruptcy Data
 
 # Below is a summary of the features from the [Poland bankruptcy dataset](https://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data). 
@@ -181,8 +178,3 @@
 # | **feat_95**  | Equity to Liability                                     |
 # 
 
-# ---
-# Copyright © 2022 WorldQuant University. This
-# content is licensed solely for personal use. Redistribution or
-# publication of this material is strictly prohibited.
-# 
